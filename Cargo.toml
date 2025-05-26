@@ -1,0 +1,9 @@
+[package]
+name = "rfetch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+colored = "3.0.0"
+sysinfo = "0.35.1"
+winit = "0.29"
