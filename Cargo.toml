@@ -5,5 +5,7 @@ edition = "2024"
 
 [dependencies]
 colored = "3.0.0"
+serde = { version = "1.0.219", features = ["derive"] }
 sysinfo = "0.35.1"
+toml = "0.8.22"
 winit = "0.29"
