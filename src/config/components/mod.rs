@@ -1,0 +1,12 @@
+pub mod cpu;
+pub mod uptime;
+pub mod de;
+pub mod disk;
+pub mod gpu;
+pub mod image;
+pub mod kernel;
+pub mod memory;
+pub mod os;
+pub mod resolution;
+pub mod shell;
+pub mod subtitles;
