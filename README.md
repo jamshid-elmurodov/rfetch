@@ -6,7 +6,7 @@
 ### Installation
 Available only Linux and macOS
 ```
-curl -fsSL https://github.com/jamshid-elmurodov/tarmoqchi/releases/download/Tarmoqchi-2.0.0/install.sh | sudo bash
+curl -fsSL https://github.com/jamshid-elmurodov/rfetch/releases/download/1.0.0/install.sh | sudo bash
 ```
 
 ### Usage
