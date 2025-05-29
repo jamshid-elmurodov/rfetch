@@ -29,7 +29,7 @@ vim ~/.config/rfetch/config.toml
 
 # If no parameters are specified, default values will be used automatically.
 
-# Default value: white
+# Default value: bright-yellow
 titles_color = "bright-yellow"
 
 # Default value: white
@@ -44,7 +44,7 @@ separator_color = "white"
 image_source = "/Users/jamshidelmurodov/.config/rfetch/default.txt"
 
 # Color of the ASCII image
-# Default value: white
+# Default value: blue
 image_color = "blue"
 
 # The width of the space between the image and the text (1 gap = 1 space)
