@@ -21,6 +21,7 @@ vim ~/.config/rfetch/config.toml
 ```
 
 ### Configuration 
+You can dynamically configure colors, ascii image, etc.
 ```toml
 # Available colors: black, red, green, yellow, blue, magenta, cyan, white
 #                   bright-black, bright-red, bright-green, bright-yellow, 
